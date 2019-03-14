@@ -292,11 +292,11 @@ section
 }
 .button:hover
 {
-	background: #e0e3e4;
+	background: #bf9b5f;
 }
 .button:hover a
 {
-	color: #232323;
+	color: #000000;
 }
 
 /*********************************
@@ -576,7 +576,7 @@ section
 }
 .home_slider_content_inner
 {
-	background: #937c6f;
+	background: #bf9b5f;
 }
 .home_slider_title
 {
@@ -628,7 +628,7 @@ section
 }
 .home_slider_next:hover
 {
-	background: #2f2f2f;
+	background: #000000;
 }
 .home_slider_dots_container
 {
