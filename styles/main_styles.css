@@ -268,7 +268,7 @@ section
 {
 	width: 142px;
 	height: 46px;
-	background: #937c6f;
+	background: #bf9b5f;
 	text-align: center;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
@@ -292,7 +292,7 @@ section
 }
 .button:hover
 {
-	background: #bf9b5f;
+	background: #000000;
 }
 .button:hover a
 {
@@ -336,7 +336,7 @@ section
 
 .logo a
 {
-	font family: 'Lucida', serif;
+	font-family: 'Lucida', serif;
   	font-size: 30px;
   	color: #000000;
 }
