@@ -616,7 +616,7 @@ section
 	right: 60px;
 	width: 45px;
 	height: 45px;
-	background: #bf9b5f;
+	background: rgba(191,155,95,0.83);
 	z-index: 10;
 	border-radius: 50%;
 	cursor: pointer;
@@ -1079,7 +1079,7 @@ section
 {
 	max-width: 425px;
 	height: 100%;
-	background: #000000;
+	background: rgba(0,0,0,0.62);
 	border: solid 2px #bf9b5f;
 	padding-left: 40px;
 	padding-right: 40px;
@@ -1136,7 +1136,7 @@ section
 {
 	font-family: 'Lucida', serif;
 	font-size: 200px;
-	color: #bf9b5f;
+	color: rgba(191,155,95,0.83);
 	line-height: 0.75;
 	-webkit-transform: rotate(-12deg);
 	-moz-transform: rotate(-12deg);
