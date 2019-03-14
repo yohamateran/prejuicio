@@ -1476,8 +1476,8 @@ section
 }
 .footer_social ul li a i
 {
-	font-size: 24px;
-	color: #937c6f;
+	font-size: 30px;
+	color: #bf9b5f;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -1486,13 +1486,13 @@ section
 }
 .footer_social ul li a i:hover
 {
-	color: #e0e3e4;
+	color: #000000;
 }
 .copyright
 {
 	margin-top: 56px;
 	padding-bottom: 13px;
 	font-family: 'Lucida', serif;
-	font-size: 12px;
-	color: #232323;
+	font-size: 18px;
+	color: #000000;
 }
