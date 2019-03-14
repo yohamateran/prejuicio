@@ -339,6 +339,8 @@ section
 	font-family: 'Lucida', serif;
 	font-size: 30px;
 	color: #000000;
+	background: url("../images/logo.png") no-repeat center;
+  	background-size: 57px 27px;
 }
 
 /*********************************
