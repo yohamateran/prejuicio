@@ -655,7 +655,7 @@ section
 	position: relative;
 	font-family: 'Lucida', serif;
 	font-size: 18px;
-	color: #FFFFFF;
+	color: #bf9b5f;
 	margin-right: 7px;
 	cursor: pointer;
 }
@@ -668,7 +668,7 @@ section
 	display: inline-block;
 	width: 0px;
 	height: 1px;
-	background: #FFFFFF;
+	background: #bf9b5f;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
