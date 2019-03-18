@@ -960,7 +960,7 @@ section
 {
 	font-size: 16px;
 	font-weight: 600;
-	color: #232323;
+	color: #000000;
 	-webkit-transition: all 200ms ease;
 	-moz-transition: all 200ms ease;
 	-ms-transition: all 200ms ease;
@@ -969,7 +969,7 @@ section
 }
 .product_name a:hover
 {
-	color: #937c6f;
+	color: #bf9b5f;
 }
 .product_price
 {
@@ -1016,7 +1016,7 @@ section
 }
 .product_buy:hover
 {
-	background: #2f2f2f;
+	background: #000000;
 }
 .product_fav
 {
@@ -1115,7 +1115,7 @@ section
 }
 .extra_promo_2
 {
-	border: solid 2px #937c6f;
+	border: solid 2px #bf9b5f;
 	padding-top: 43px;
 	padding-bottom: 46px;
 }
@@ -1152,7 +1152,7 @@ section
 	font-family: 'Beyond', sans-serif;
 	font-size: 72px;
 	line-height: 0.75;
-	color: #232323;
+	color: #ffffff;
 }
 .extra_2_bottom
 {
@@ -1162,7 +1162,7 @@ section
 	font-family: 'Beyond', sans-serif;
 	font-size: 72px;
 	line-height: 0.75;
-	color: #232323;
+	color: #ffffff;
 }
 .extra_2_text
 {
@@ -1232,7 +1232,7 @@ section
 }
 .gallery_title ul li a:hover
 {
-	color: #937c6f;
+	color: #bf9b5f;
 }
 .gallery_text
 {
